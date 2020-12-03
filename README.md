@@ -12,3 +12,5 @@ ________________
 [Решение первой задачи](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba1.cpp)
 
 [Решение второй задачи](https://github.com/YaR1k22/Labs_FirstYear/tree/Laba1)
+
+[Решение второй задачи](https://github.com/YaR1k22/Labs_FirstYear/tree/Laba1)
