@@ -1,13 +1,12 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
-int a;
-int b;
+int x;
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    cout << "введите два числа:" << '\n';
-    cin >> a >> b;
-    cout << "полученная сумма:";
-    cout << a + b << endl;
+    cout << "введите число:" << '\n';
+    cin >> x;
+    cout << "ваше число:";
+    cout << x  << endl;
     return 0;
 }
