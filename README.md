@@ -9,5 +9,5 @@ ________________
      3.Написать программу, которая запрашивает два числа от пользователя и выводит их сумму на экран.
 </details>
 
-[Решение первой задачи](https://github.com/YaR1k22/Labs_FirstYear/tree/Laba1)
+[Решение первой задачи](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba1.cpp)
 [Решение второй задачи](https://github.com/YaR1k22/Labs_FirstYear/tree/Laba1)
