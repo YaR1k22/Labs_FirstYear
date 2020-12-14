@@ -26,7 +26,8 @@ ________________
      - последовательности простых чисел от 0 до указанного пользователем числа.
      3*. Написать программу, находящую все 4х значные числа "Вампиры".
 </details>
-[Решение первой задачи через](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.cpp)
+
+[Решение первой задачи через Свич](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.cpp)
 
 [Решение первой задачи через Иф](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.cpp)
     
