@@ -29,5 +29,5 @@ ________________
 
 [Решение первой задачи через Свич](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.cpp)
 
-[Решение первой задачи через Иф](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.cpp)
+[Решение первой задачи через Иф](https://github.com/YaR1k22/Labs_FirstYear/blob/Laba1/Laba2.1.1.cpp)
     
